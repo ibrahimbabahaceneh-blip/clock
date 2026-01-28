@@ -29,4 +29,13 @@ body{
     font-family: monospace;
     font-size: 2rem;
     font-weight: bold;
+
+}
+@media (max-width: 500px) {
+    #clock{
+        font-size: 3rem;
+    }
+    #date{
+        font-size: 1.2rem;
+    }
 }
